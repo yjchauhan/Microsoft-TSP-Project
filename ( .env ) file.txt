@@ -1,0 +1,15 @@
+#you can edit user and botname
+
+USER=Sir
+BOTNAME=Alpha
+
+#you can give your email and password for accessing and sending mails to anyone by AI Bot
+
+EMAIL=None
+PASSWORD=None
+
+#Replace None with your API keys
+
+NEWS_API_KEY=None
+OPENWEATHER_APP_ID=None
+TMDB_API_KEY=None
