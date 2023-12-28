@@ -1,3 +1,5 @@
+These are the steps of recommended packages and libraries to install in your PC
+
 Step 1: pip install virtualenv
 
 Step 2: virtualenv env
