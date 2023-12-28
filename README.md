@@ -17,3 +17,5 @@ Step 8: pip install wikipedia
 Step 9: pip install requests
 
 Step 10: pip install python-decouple
+
+Then type the code of your AI Bot and run it..
